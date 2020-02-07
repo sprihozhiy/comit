@@ -1,1 +1,1 @@
-# comit
+# ComIT - Exercises
